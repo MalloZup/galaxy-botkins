@@ -1,7 +1,23 @@
-# galaxy-botkins.
+# galaxy-ci.
 
-Your favorite repo for CI-AUTOMATION. 100% bio-opensource code. $MalloZup
+Some CI script utilities ideas for automation CI.
 
-The ```git``` repo contains code for testing github PRs, setting the status and fetch some parameters.
+### CI-Schedulers
 
 The ```jenkins``` repo contains some usefull examples to automatize your jenkins-jobs, and write this in yaml files and  control/store them in git. Manual changes aren't needed anymore.
+
+### Web-testing
+You have then web-testing which contains some scripts for testing web-pages with webdriver (selenium, etc)
+
+
+### Ruby testing BDD
+Rspec dir contains some experiments with rspec framework.
+
+
+### Data visualisation
+
+###### imagine
+
+Contains data visualisation projects.
+
+``` cocomero``` is a data visualisation for cucumber results.

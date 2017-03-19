@@ -1,0 +1,8 @@
+ Some useful debug infos :
+
+https://groups.google.com/forum/#!msg/phantomjs/RTFttZNm9Mk/9o3XmBP9AgAJ
+https://groups.google.com/forum/#!topic/phantomjs/RTFttZNm9Mk
+
+bug upstream ? need reproduction
+
+https://github.com/ariya/phantomjs/issues/14697
